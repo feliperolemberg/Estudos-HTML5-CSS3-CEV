@@ -98,15 +98,15 @@ Conceitos básicos, preparação do ambiente, semântica do HTML5, textos, títu
     - Parte 5 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/iframe005.html)🌐
     - Parte 6 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/iframe006.html)🌐
   - Exercício 025:
-    - Parte 1 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form001.html)🌐
-    - Parte 2 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form002.html)🌐
-    - Parte 3 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form003.html)🌐
-    - Parte 4 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form004.html)🌐
-    - Parte 5 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form005.html)🌐
-    - Parte 6 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form006.html)🌐
-    - Parte 7 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form007.html)🌐
-    - Parte 8 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form008.html)🌐
-    - Parte 9 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form009.html)🌐
-    - Parte 10 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex024/form010.html)🌐
+    - Parte 1 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form001.html)🌐
+    - Parte 2 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form002.html)🌐
+    - Parte 3 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form003.html)🌐
+    - Parte 4 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form004.html)🌐
+    - Parte 5 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form005.html)🌐
+    - Parte 6 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form006.html)🌐
+    - Parte 7 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form007.html)🌐
+    - Parte 8 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form008.html)🌐
+    - Parte 9 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form009.html)🌐
+    - Parte 10 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/exercicios/ex025/form010.html)🌐
 - Desafios 🏆:
   - Desafio 015 - [Visualizar](https://feliperolemberg.github.io/Estudos-HTML5-CSS3-CEV/desafios-exercicios/desafios/d015/)🌐
